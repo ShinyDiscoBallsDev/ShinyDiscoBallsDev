@@ -1,16 +1,15 @@
-## Hi there 👋
+### Enterprise pipelines by day, FOSS releases and emulator fleets by night
 
-<!--
-**ShinyDiscoBallsDev/ShinyDiscoBallsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flagship: [kiFOSSk](https://github.com/ShinyDiscoBallsDev/kiFOSSk)** — a FOSS 
+Android kiosk browser on F-Droid with zero Google services, six releases, 
+reproducible builds, a homegrown acceptance-test harness running 
+9 Android emulators in parallel with 135 assertions per run, and 31 unit 
+tests covering URL validation, preferences, and retry logic
 
-Here are some ideas to get you started:
+**Work stack:** OpenShift, Service Mesh, ArgoCD, CI/CD pipelines, and the 
+ongoing adventure of legacy system integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Off the clock:** a homelab running TrueNAS, Pi-hole, and an ADS-B flight 
+tracking pipeline, because apparently one dashboard was never enough
+
+Contract or consulting inquiries: open an issue on any repo 🪩
